@@ -4,7 +4,6 @@
 
 
 
-<img align="right" src="https://user-images.githubusercontent.com/105470775/168205566-db1137b0-ced4-4752-8c8b-99598ab4024f.gif" width="400px">
 
 ### Contatos:
 
