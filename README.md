@@ -1,6 +1,6 @@
 ### Éric Santos 👋
 
-- Analista de Dados | Business Intelligence.
+- Analista de BI | Analista de Dados.
 
 🔭 Atualmente trabalho como analista de BI no ramo varejista com foco em logística
 
