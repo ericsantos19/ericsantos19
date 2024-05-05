@@ -2,7 +2,7 @@
 
 - Analista de Dados | Business Intelligence.
 
-🔭 Atualmente trabalho como analista de dados no ramo varejista com foco em logística
+🔭 Atualmente trabalho como analista de BI no ramo varejista com foco em logística
 
 
 ### Contatos:
